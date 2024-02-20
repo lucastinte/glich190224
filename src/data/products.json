@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Arroz",
+    "description": "Muy rico",
+    "price": 1200,
+    "stock": 20,
+    "code": "A123",
+    "thumbnail": [],
+    "id": "0abccc8881ebe3148be1",
+    "img": "https://www.radiosapienza.com.ar/Image/0/500_500-526469_1.jpg"
+  },
+  {
+    "title": "Arroz Integral",
+    "description": "Muy",
+    "price": 100,
+    "stock": 10,
+    "code": "A323",
+    "thumbnail": [],
+    "id": "ccf7403ee19c52762a3e"
+  },
+  {
+    "title": "Arroz ver",
+    "description": "Muya",
+    "price": 100,
+    "stock": 10,
+    "code": "A3232",
+    "thumbnail": [],
+    "id": "7d1533fe55eed4cd4a8e"
+  },
+  {
+    "title": "ver",
+    "description": "Muya",
+    "price": 100,
+    "stock": 10,
+    "code": "A32232",
+    "thumbnail": [],
+    "id": "e7749995afc225d8c7c1"
+  },
+  {
+    "title": "harina",
+    "description": "Muya",
+    "price": 100,
+    "stock": 10,
+    "code": "A32",
+    "thumbnail": [],
+    "id": "31dc89c55b8f18773020"
+  },
+  {
+    "title": "harina bklanca",
+    "description": "Muya",
+    "price": 100,
+    "stock": 10,
+    "code": "A2232",
+    "thumbnail": [],
+    "id": "e8920f15d06b964aabd5"
+  },
+  {
+    "title": "harifffna bklanca",
+    "description": "M223uya",
+    "price": 10,
+    "stock": 30,
+    "code": "A2432",
+    "thumbnail": [],
+    "id": "fd4504362d265848c8c9"
+  }
+]
